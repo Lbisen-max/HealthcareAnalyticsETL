@@ -5,6 +5,6 @@ def get_mysql_connection():
         host="localhost",
         user="root",
         password="password",
-        database="manish"
+        database="HealthCareDataAnalysis"
     )
     return connection
