@@ -9,6 +9,8 @@ The objective is to build a pipeline for ingesting, storing, processing, and vis
 * Visualization: AWS QuickSight
 * Python
 * Pycharm
+* I AM Role
+  
   
   
 
