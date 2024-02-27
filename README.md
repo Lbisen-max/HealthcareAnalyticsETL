@@ -11,3 +11,4 @@ The project aims to build a single source of true data storage for large healthc
 
   # Inventory of Resources
   
+![image](https://github.com/Lbisen-max/HealthcareAnalyticsETL/assets/79071673/1be1449e-5969-4a3f-90a1-7cca04208633)
