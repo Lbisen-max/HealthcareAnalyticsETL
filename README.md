@@ -8,6 +8,8 @@ The objective is to build a pipeline for ingesting, storing, processing, and vis
 * Processing layer: Apache Spark
 * Visualization: AWS QuickSight
 * Python
+* Pycharm
+  
   
 
   # Phases
@@ -42,51 +44,6 @@ The objective is to build a pipeline for ingesting, storing, processing, and vis
 # Folder Structure 
 
 ![image](https://github.com/Lbisen-max/HealthcareAnalyticsETL/assets/79071673/d6db330b-4621-4c66-b0bc-93a5ae79757e)
-![image](https://github.com/Lbisen-max/HealthcareAnalyticsETL/assets/79071673/66e9a9e3-1c75-410a-bf15-844bd90d0ee4)
-
-
-
-├───.idea
-│   └───inspectionProfiles
-├───src
-│   ├───main
-│   │   ├───ProjectConfig
-│   │   │   └───__pycache__
-|   |   |   └───ProjectConfig.py
-|   |   |   └───ProjectSchema.py
-|   |   |   └───requirement.txt
-│   │   ├───PythonSparkJobs
-│   │   │   ├───spark-warehouse
-|   |   |   ├───CleanAndTransformed.py
-|   |   |   ├───DataIngestion.py
-│   │   │   └───__pycache__
-│   │   ├───utility
-│   │   │   └───__pycache__
-|   |   |   ├───logging_config.py
-|   |   |   ├───my_sql_session.py
-|   |   |   ├───s3_client_object.py
-|   |   |   ├───spark_session.py
-|   |   |   ├───test.py
-│   │   └───__pycache__
-│   └───__pycache__
-└───transformData
-    ├───actualExpend_Vs_actualRequirement_Global
-    ├───anualhealthexpenditure_Global
-    ├───childLifeExpectancy_VS_health_Expend_Global
-    ├───childMortVsHealthExpediture_Global
-    ├───DevelopingCOE_TaxRevenue_VS_HC_Spending
-    ├───domesticSpendingPercentage_HC_GDP
-    ├───expenditureOn_NHS_UK
-    ├───healthcareExpendVsGDP_Global
-    ├───healthInsuranceCoverOn_US
-    ├───healthProtectionCover_Global
-    ├───outOfPocketExpendOnHealth
-    ├───outOfPocketExpendOnHealth_VS_GDP
-    ├───percentageWithoutHeathCover_US
-    ├───publicHealthInsuranceCoverage
-    ├───publicSpendingPercentage_HC_GDP
-    ├───TotalExpendOn_HC_from_GDP
-    └───TotalShareOfPublicExpenditure_HC_Global
 
 
 # Data Ingestion and Data Transformation using Pyspark (ETL)
