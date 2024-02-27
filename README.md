@@ -41,6 +41,11 @@ The objective is to build a pipeline for ingesting, storing, processing, and vis
 
 # Folder Structure 
 
+![image](https://github.com/Lbisen-max/HealthcareAnalyticsETL/assets/79071673/d6db330b-4621-4c66-b0bc-93a5ae79757e)
+![image](https://github.com/Lbisen-max/HealthcareAnalyticsETL/assets/79071673/66e9a9e3-1c75-410a-bf15-844bd90d0ee4)
+
+
+
 ├───.idea
 │   └───inspectionProfiles
 ├───src
