@@ -4,7 +4,7 @@ The objective is to build a pipeline for ingesting, storing, processing, and vis
 
 # Tech Stack
 * Data lake: Amazon S3
-* Data source: Local
+* Data source: Comapny data lake
 * Processing layer: Apache Spark
 * Visualization: AWS QuickSight
 * Python
